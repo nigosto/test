@@ -1,3 +1,5 @@
 I made a change
 Changes made into the branch
 Changes made into the master
+////////////////////////////
+I made a change via GitBash
